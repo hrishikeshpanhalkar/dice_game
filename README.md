@@ -5,7 +5,8 @@ A new Flutter project.
 ## Getting Started
 
 This project is a starting point for a Flutter application.<br>
-<img src="images/Screebshot1.jpeg height="300" width="400">
+<img src="images/Screebshot1.jpeg" height="300" width="400">
+<img src="images/Screenshot2.jpeg" height="300" width="400">
 
 A few resources to get you started if this is your first Flutter project:
 
